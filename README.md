@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 Covid 19 tracker tracks and displays data of various countries.
 It depicts various fields like 'no.of cases', 'recovered', 'deaths', 'active', 'critical', etc
 
-<img src='https://github.com/user-attachments/assets/fd872a4f-bfeb-45b2-8cb0-b4ce05dbcb22' width=500>
-<img src='https://github.com/user-attachments/assets/cfca68a0-e98d-4c94-99ee-f39393a5c99b' width=500>
-<img src='https://github.com/user-attachments/assets/51119bfb-88a6-4d77-a73c-6774202ff47e' width=500>
+<img src='https://github.com/user-attachments/assets/fd872a4f-bfeb-45b2-8cb0-b4ce05dbcb22' width=500 height=500>\n
+<img src='https://github.com/user-attachments/assets/cfca68a0-e98d-4c94-99ee-f39393a5c99b' width=500 height=500>\n
+<img src='https://github.com/user-attachments/assets/51119bfb-88a6-4d77-a73c-6774202ff47e' width=500 height=500>\n
 
